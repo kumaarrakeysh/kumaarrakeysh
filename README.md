@@ -2,7 +2,7 @@
 ---
 
 <!-- Profile Header -->
-<<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">🏦 Senior Banking Leader | 📊 Data & Automation Enthusiast | 🤖 Future-Ready Tech Professional | 🤳🏿 AI Enthusiast</h3>
 
 
@@ -34,6 +34,14 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumaarrakeysh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaarrakeysh&theme=dark&hide_border=false&&hide=Tex&include_all_commits=true&count_private=true&layout=compact)
+
+
+ ## 🛠️ Expertise
+ 💻 Python | SQL | Streamlit  
+📊 Data Analytics | Dashboarding  
+⚙️ Automation | Process Optimization  
+🔧 Git | GitHub | APIs
+
 
 ## 🚀 How I Use Technology
 
@@ -81,12 +89,6 @@
 
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
- 
- ## 🛠️ Expertise
- 💻 Python | SQL | Streamlit  
-📊 Data Analytics | Dashboarding  
-⚙️ Automation | Process Optimization  
-🔧 Git | GitHub | APIs
 
 
 ### 💻 Programming & Data
@@ -95,6 +97,7 @@
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
+
 ### 📊 Analytics & Visualization
 <p>
   <img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge"/>
@@ -102,12 +105,14 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
+
 ### ⚙️ Automation & Systems
 <p>
   <img src="https://img.shields.io/badge/Automation-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Process%20Optimization-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-333333?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
+
 
 ### 🔧 Platforms
 <p>
