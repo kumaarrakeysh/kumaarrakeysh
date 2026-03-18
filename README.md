@@ -14,11 +14,11 @@
  
  ## 👨‍💻 About Me
 
-- 🔭 Currently persuing 
+- 🔭 Currently persuing coding
 - 🏦 Senior Manager @ Punjab National Bank  
 - 📈 10+ Years in Banking Operations, Branch Leadership & Strategy  
 - 🎯 Driving Digital Transformation & Process Automation 
-- 💡 Passionate about combining **Banking + Technology + Data  ** 
+- 💡 Passionate about combining **Banking + Technology + Data** 
 
 
 <br/>
