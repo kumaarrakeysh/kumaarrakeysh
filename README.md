@@ -1,6 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=kumaarrakeysh&color=dc143c)
 ---
 
+<!-- Profile Header -->
+<h1 align="center">Hi, its me:~ Kumaar Rakeysh 👋</h1>
+<h3 align="center">💻  AI Enthusiast</h3>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
@@ -44,8 +49,6 @@
 
 ### 🧱 Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -64,9 +67,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Profile Header -->
-<h1 align="center">Hi, its me:~ Kumaar Rakeysh 👋</h1>
-<h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | Open Source Contributor | AI Enthusiast</h3>
 
 
 # 💻 Tech Stack:
