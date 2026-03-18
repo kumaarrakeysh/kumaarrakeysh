@@ -3,10 +3,10 @@
 
 <!-- Profile Header -->
 <<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">🏦 Senior Banking Leader | 📊 Data & Automation Enthusiast | 🤖 Future-Ready Tech Professional 🤳🏿 AI Enthusiast</h3>
+<h3 align="center">🏦 Senior Banking Leader | 📊 Data & Automation Enthusiast | 🤖 Future-Ready Tech Professional | 🤳🏿 AI Enthusiast</h3>
 
 
-## 🌐 Connect me on:
+## 🌐 Connect me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kumaar_rakeysh?igsh=aTRmMzAwMmhra3c3)
 
@@ -14,21 +14,34 @@
  
  ## 👨‍💻 About Me
 
-- 🔭 Currently persuing coding   
-- 💡 Passionate about clean code, scalable architecture, and elegant design patterns  
-- 🚀 Exploring the world of **AI**, experimenting with intelligent applications  
-- 💬 Ask me about **Financial Analysis**
+- 🔭 Currently persuing 
+- 🏦 Senior Manager @ Punjab National Bank  
+- 📈 10+ Years in Banking Operations, Branch Leadership & Strategy  
+- 🎯 Driving Digital Transformation & Process Automation 
+- 💡 Passionate about combining **Banking + Technology + Data  ** 
+
 
 <br/>
 
 🌿 Outside the terminal:
+
+- 💬 Ask me about **Financial Analysis**
+- 📚 Certified: JAIIB & CAIIB
 - 🏞️ Hiking scenic trails  
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumaarrakeysh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaarrakeysh&theme=dark&hide_border=false&&hide=Tex&include_all_commits=true&count_private=true&layout=compact)
+
+## 🛠️ Tools
+
+```bash
+💻 Python | SQL | Streamlit
+📊 Data Analytics | Dashboarding
+⚙️ Automation | Process Optimization
+🔧 Git | GitHub | APIs
 
 
 ## 🏆 GitHub Trophies
@@ -48,7 +61,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### 🛠 Tools & 
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
