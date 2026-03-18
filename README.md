@@ -2,8 +2,8 @@
 ---
 
 <!-- Profile Header -->
-<h1 align="center">Hi, its Kumaar Rakeysh </h1>
-<h3 align="center">💻  AI Enthusiast</h3>
+<<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
+<h3 align="center">🏦 Senior Banking Leader | 📊 Data & Automation Enthusiast | 🤖 Future-Ready Tech Professional 🤳🏿 AI Enthusiast</h3>
 
 
 ## 🌐 Connect me on:
