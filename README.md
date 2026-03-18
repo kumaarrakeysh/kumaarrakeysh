@@ -2,7 +2,7 @@
 ---
 
 <!-- Profile Header -->
-<h1 align="center">Hi, its me:~ Kumaar Rakeysh 👋</h1>
+<h1 align="center">Hi, its Kumaar Rakeysh </h1>
 <h3 align="center">💻  AI Enthusiast</h3>
 
 
@@ -12,7 +12,7 @@
 
 ## 🫆Connect me on
 
-<a href="https://instagram.com/kmr_mithlesh" target="_blank">
+<a href="https://www.instagram.com/kumaar_rakeysh?igsh=aTRmMzAwMmhra3c3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     
  
